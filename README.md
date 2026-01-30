@@ -30,38 +30,6 @@ This project simulates a real-world data analysis workflow used in customer anal
 
 ## 📂 Project Structure
 
-# Customer Segmentation & Retention Analysis
-
-A Python project that analyzes customer behavior, segments users, calculates retention metrics, and produces both CSV reports and visual charts.
-
-This project simulates a real-world data analysis workflow used in customer analytics and business intelligence.
-
----
-
-## 📌 Features
-
-- Customer segmentation (VIP, Loyal, Regular)
-- Retention status detection (Active, At Risk, Churned)
-- Business action recommendations per customer
-- KPI calculation:
-  - Retention rate
-  - Churn rate
-  - At-risk rate
-- CSV report generation
-- Data visualization with charts
-
----
-
-## 🛠 Technologies Used
-
-- Python 3
-- Standard Library (`csv`, `pathlib`)
-- `matplotlib` for visualization
-
----
-
-## 📂 Project Structure
-
 project/
 │
 ├── data/
@@ -91,3 +59,14 @@ project/
 ## Run the analysis:
 
 python analysis.py
+
+
+## 👤 Author
+
+Endri  
+Python Developer / Data Analysis Enthusiast
+
+## License
+
+This project is licensed under the MIT License.
+
