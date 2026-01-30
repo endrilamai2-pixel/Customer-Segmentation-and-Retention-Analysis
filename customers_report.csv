@@ -1,0 +1,6 @@
+customer_id,segment,retention_status,action
+1,VIP,Active,Send personal thank-you and perks
+2,At Risk,Lost,Reminder with small discount
+3,Loyal,At Risk,Send discount reminder
+4,Lost,Lost,Win-back campaign
+5,VIP,Active,Send personal thank-you and perks
